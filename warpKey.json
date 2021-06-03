@@ -1,0 +1,7 @@
+{
+    "mqttURL": "URL COMES HERE",
+    "mqttMyId": "backhoe-01",
+    "mqttPairId": "controller-01",
+    "serialBaudRate": "115200"
+}
+  
